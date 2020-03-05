@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "840051215784",
+    "firebase_url": "https://otpauth-61679.firebaseio.com",
+    "project_id": "otpauth-61679",
+    "storage_bucket": "otpauth-61679.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840051215784:android:9e1034ddc2f0c71ff0219d",
+        "android_client_info": {
+          "package_name": "com.example.otpauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840051215784-3vf4s5p14k0qabl0k585t5qfvt4v88us.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otpauth",
+            "certificate_hash": "731947699a8f913f05958e8611ded487619240fa"
+          }
+        },
+        {
+          "client_id": "840051215784-eut4nrjbf7kn5nm7aibj2fonfgo0cil3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqXMUm16X05PUSYeZJLC5YCjpRjsikfEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840051215784-eut4nrjbf7kn5nm7aibj2fonfgo0cil3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
